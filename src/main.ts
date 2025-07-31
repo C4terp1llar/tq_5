@@ -1,4 +1,4 @@
-import '@/app/styles/index.scss'
+import '@/app/styles/style.scss'
 import '@mdi/font/css/materialdesignicons.css'
 
 import { createApp } from 'vue'
